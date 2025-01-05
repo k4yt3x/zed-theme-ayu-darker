@@ -1,0 +1,7 @@
+id = "ayu-darker"
+name = "Ayu Darker Theme"
+version = "1.0.0"
+schema_version = 1
+authors = ["K4YT3X <i@k4yt3x.com>"]
+description = "A darker variant of the Ayu Dark theme."
+repository = "https://github.com/k4yt3x/zed-theme-ayu-darker"

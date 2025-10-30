@@ -7,7 +7,7 @@
       "name": "Ayu Darker",
       "appearance": "dark",
       "style": {
-        "border": "#ffffff02",
+        "border": "#ffffff15",
         "border.variant": "#2d2f34ff",
         "border.focused": "#1b4a6eff",
         "border.selected": "#1b4a6eff",
@@ -39,7 +39,7 @@
         "icon.accent": "#5ac1feff",
         "status_bar.background": "#121212ff",
         "title_bar.background": "#121212ff",
-        "title_bar.inactive_background": "#1f2127ff",
+        "title_bar.inactive_background": "#252525ff",
         "toolbar.background": "#080808ff",
         "tab_bar.background": "#121212ff",
         "tab.inactive_background": "#121212ff",

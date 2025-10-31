@@ -2,4 +2,4 @@
 
 A darker variant of the Ayu Dark theme for Zed.
 
-![screenshot](https://github.com/user-attachments/assets/0c79c524-2201-40fa-8dd0-d161c0c3a5ed)
+![screenshot](https://github.com/user-attachments/assets/728f2652-77c2-4c03-a00e-4661457cca3a)
